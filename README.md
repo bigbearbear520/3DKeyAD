@@ -52,13 +52,22 @@ Each script will output O-AUROC and P-AUROC scores as reported in the paper.
 > 📝 **Note:** Make sure the downloaded score files are placed in the correct directory as expected by each script.
 
 ---
+## 🔄 Reproduction by Running Code (Full Environment Setup Needed)
+Here, we only use the Raw features as an example, since feature extraction is not the main focus of this paper. Running PointMAE can be tricky, so if you want to try other features, we refer readers to the implementation details provided by the projects mentioned in the acknowledgments.
+### Step 1: Download real3d-ad-pcd.zip and extract into ./data/
+See [Real3D-AD](https://github.com/M-3LAB/Real3D-AD) dataset
+
+### Step 2: Compile [PCLKeypoints](https://github.com/lijx10/PCLKeypoints) for keypoint detectors
+
+### Step 3: ToDo...
+
 ## 📊 Results
 <img width="1062" height="555" alt="image" src="https://github.com/user-attachments/assets/eb5cf97c-1d1e-46ff-931b-1d2546443947" />
 <img width="1068" height="506" alt="image" src="https://github.com/user-attachments/assets/11479ded-5b68-4c3a-b239-66e194a9c82f" />
 
 ---
 ## 🙏 Acknowledgements
-Our benchmark is built on [BTF](https://github.com/eliahuhorwitz/3D-ADS) and [M3DM](https://github.com/nomewang/M3DM), [PatchCore](https://github.com/amazon-science/patchcore-inspection),and [Real3D-AD](https://github.com/M-3LAB/Real3D-AD), thanks for their extraordinary works!
+Our benchmark is built on [BTF](https://github.com/eliahuhorwitz/3D-ADS), [M3DM](https://github.com/nomewang/M3DM), [PatchCore](https://github.com/amazon-science/patchcore-inspection),and [Real3D-AD](https://github.com/M-3LAB/Real3D-AD), thanks for their extraordinary works!
 
 ---
 ## 📖 Citation
