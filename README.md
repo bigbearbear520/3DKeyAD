@@ -16,9 +16,9 @@
 - ✅ SOTA results on [Real3D-AD](https://github.com/M-3LAB/Real3D-AD) dataset
 
 ---
-## 🔄 Quick Reproduction (Less Environment Setup Needed)
+## 🔄 Quick Reproduction (Minimal Environment Setup Needed)
 
-We provide precomputed anomaly scores for every point and object in the dataset, allowing for immediate evaluation without configuring the environment much.
+We provide precomputed anomaly scores for each point and object in the dataset, enabling quick evaluation with minimal environment setup.
 
 ### Step 1: Download real3d-ad-pcd.zip and extract into ./data/
 See [Real3D-AD](https://github.com/M-3LAB/Real3D-AD) dataset
@@ -58,7 +58,7 @@ Each script will output O-AUROC and P-AUROC scores as reported in the paper.
 
 ---
 ## 🙏 Acknowledgements
-Our benchmark is built on [BTF](https://github.com/eliahuhorwitz/3D-ADS) and [M3DM](https://github.com/nomewang/M3DM), [PatchCore](https://github.com/amazon-science/patchcore-inspection),and [Real3D-AD](https://github.com/M-3LAB/Real3D-AD), thanks their extraordinary works!
+Our benchmark is built on [BTF](https://github.com/eliahuhorwitz/3D-ADS) and [M3DM](https://github.com/nomewang/M3DM), [PatchCore](https://github.com/amazon-science/patchcore-inspection),and [Real3D-AD](https://github.com/M-3LAB/Real3D-AD), thanks for their extraordinary works!
 
 ---
 ## 📖 Citation
