@@ -22,12 +22,14 @@
 
 ---
 ## 📖 Citation
+```bibtex
 @misc{wang20253dkeyad,
-      title={3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering}, 
-      author={Zi Wang and Katsuya Hotta and Koichiro Kamide and Yawen Zou and Chao Zhang and Jun Yu},
-      year={2025},
-      eprint={2507.13110},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.13110}, 
+  title={3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering}, 
+  author={Zi Wang and Katsuya Hotta and Koichiro Kamide and Yawen Zou and Chao Zhang and Jun Yu},
+  year={2025},
+  eprint={2507.13110},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2507.13110}, 
 }
+
