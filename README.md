@@ -52,7 +52,7 @@ Each script will output O-AUROC and P-AUROC scores as reported in the paper.
 > 📝 **Note:** Make sure the downloaded score files are placed in the correct directory as expected by each script.
 
 ---
-## 🔄 Reproduction by Running Code (Full Environment Setup Needed)
+## 🔄 Reproduction by Running Our Method (Full Environment Setup Needed)
 Here, we only use the Raw features as an example, since feature extraction is not the main focus of this paper. Running PointMAE can be tricky, so if you want to try other features, we refer readers to the implementation details provided by the projects mentioned in the acknowledgments.
 ### Step 1: Download real3d-ad-pcd.zip and extract into ./data/
 See [Real3D-AD](https://github.com/M-3LAB/Real3D-AD) dataset
