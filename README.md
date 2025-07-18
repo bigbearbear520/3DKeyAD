@@ -1,5 +1,3 @@
-# 3DKeyAD
-3DKeyAD
 # 3DKeyAD: Keypoint-Guided Prototype-Aligned Anomaly Detection in 3D Point Clouds
 > [📄 Paper](https://arxiv.org/abs/2507.13110)  
 ---
