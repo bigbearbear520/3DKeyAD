@@ -26,7 +26,7 @@ See [Real3D-AD](https://github.com/M-3LAB/Real3D-AD) dataset
 ### Step 2: Download Score Files
 Please download the evaluation score files from the following link:
 
-**[📦 Download Precomputed Scores](#)** <!-- TODO: Replace with actual download URL -->
+**[📦 Download Precomputed Scores](#)** <https://gofile.me/6UrIQ/OCsEr0wsU>
 
 and extract into ./calculated_ADscore/
 
