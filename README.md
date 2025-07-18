@@ -57,6 +57,10 @@ Each script will output O-AUROC and P-AUROC scores as reported in the paper.
 <img width="1068" height="506" alt="image" src="https://github.com/user-attachments/assets/11479ded-5b68-4c3a-b239-66e194a9c82f" />
 
 ---
+## 🙏 Acknowledgements
+Our benchmark is built on [BTF](https://github.com/eliahuhorwitz/3D-ADS) and [M3DM](https://github.com/nomewang/M3DM), [PatchCore](https://github.com/amazon-science/patchcore-inspection),and [Real3D-AD](https://github.com/M-3LAB/Real3D-AD), thanks their extraordinary works!
+
+---
 ## 📖 Citation
 ```bibtex
 @misc{wang20253dkeyad,
@@ -68,7 +72,5 @@ Each script will output O-AUROC and P-AUROC scores as reported in the paper.
   primaryClass={cs.CV},
   url={https://arxiv.org/abs/2507.13110}, 
 }
----
-## 🙏 Acknowledgements
 
-Our benchmark is built on [BTF](https://github.com/eliahuhorwitz/3D-ADS) and [M3DM](https://github.com/nomewang/M3DM), [PatchCore](https://github.com/amazon-science/patchcore-inspection),and [Real3D-AD](https://github.com/M-3LAB/Real3D-AD), thanks their extraordinary works!
+
