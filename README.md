@@ -16,5 +16,18 @@
 - ✅ SOTA results on [Real3D-AD](https://github.com/M-3LAB/Real3D-AD) dataset
 
 ---
-##📊 Results
+## 📊 Results
 <img width="1062" height="555" alt="image" src="https://github.com/user-attachments/assets/eb5cf97c-1d1e-46ff-931b-1d2546443947" />
+<img width="1068" height="506" alt="image" src="https://github.com/user-attachments/assets/11479ded-5b68-4c3a-b239-66e194a9c82f" />
+
+---
+## 📖 Citation
+@misc{wang20253dkeyad,
+      title={3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering}, 
+      author={Zi Wang and Katsuya Hotta and Koichiro Kamide and Yawen Zou and Chao Zhang and Jun Yu},
+      year={2025},
+      eprint={2507.13110},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.13110}, 
+}
