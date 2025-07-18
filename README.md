@@ -16,3 +16,5 @@
 - ✅ SOTA results on [Real3D-AD](https://github.com/M-3LAB/Real3D-AD) dataset
 
 ---
+##📊 Results
+<img width="1062" height="555" alt="image" src="https://github.com/user-attachments/assets/eb5cf97c-1d1e-46ff-931b-1d2546443947" />
