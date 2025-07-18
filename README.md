@@ -16,16 +16,21 @@
 - ✅ SOTA results on [Real3D-AD](https://github.com/M-3LAB/Real3D-AD) dataset
 
 ---
-## 🔄 Quick Reproduction (No Environment Setup Needed)
+## 🔄 Quick Reproduction (Less Environment Setup Needed)
 
-We provide precomputed anomaly scores for every point and object in the dataset, allowing for immediate evaluation without configuring the environment.
+We provide precomputed anomaly scores for every point and object in the dataset, allowing for immediate evaluation without configuring the environment much.
 
-### 📥 Step 1: Download Score Files
+### Step 1: Download real3d-ad-pcd.zip and extract into ./data/
+See [Real3D-AD](https://github.com/M-3LAB/Real3D-AD) dataset
+
+### Step 2: Download Score Files
 Please download the evaluation score files from the following link:
 
 **[📦 Download Precomputed Scores](#)** <!-- TODO: Replace with actual download URL -->
 
-### 🧪 Step 2: Run Evaluation Scripts
+and extract into ./calculated_ADscore/
+
+### Step 3: Run Evaluation Scripts
 You can run the following evaluation scripts to reproduce the results of each variant. No training or inference is required.
 
 ```bash
@@ -63,4 +68,7 @@ Each script will output O-AUROC and P-AUROC scores as reported in the paper.
   primaryClass={cs.CV},
   url={https://arxiv.org/abs/2507.13110}, 
 }
+---
+## 🙏 Acknowledgements
 
+Our benchmark is built on [BTF](https://github.com/eliahuhorwitz/3D-ADS) and [M3DM](https://github.com/nomewang/M3DM), [PatchCore](https://github.com/amazon-science/patchcore-inspection),and [Real3D-AD](https://github.com/M-3LAB/Real3D-AD), thanks their extraordinary works!
